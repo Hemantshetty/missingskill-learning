@@ -5,16 +5,13 @@ Repo created on 26 July 2021 for 10 days grind where the basic of skills like Li
 
 ## 1. Linux
 - History
-- Popular Linux Distro
 - Commands
-- Wildcard in Linux
 - File System   [Linux Document](linux.md)
 
 ## 2. Git
-- Version control system Git 
 -  Git commands   [Git Document](git.md)
 
-## 3. Basic Building Block of Web
+## 3. Building Block of Web
 - Programing Language
 - IP Address 
 - IPv4 Classes
