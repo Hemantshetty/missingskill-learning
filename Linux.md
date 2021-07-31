@@ -29,7 +29,7 @@
 
 # **LINUX FILE SYSTEM**
 
-| FILE COMMAND | Description |
+| DIRECTORY | Description |
 |-------|-------------|
 |/bin  | binary files (commands are stored here).|
 |/dev | device file for devices |
