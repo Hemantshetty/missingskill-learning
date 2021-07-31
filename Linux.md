@@ -7,7 +7,6 @@
 ![Linux_LsCommand](https://user-images.githubusercontent.com/81672261/127735498-c0e5a9f6-0361-420f-9635-efd62571ed2d.PNG)
 
 # **OTHER LINUX COMMANDS**
-## **File System**
 
 | COMMAND | DESCRIPTION |
 |-------|-------------|
@@ -24,10 +23,13 @@
 |rmdir _foldername_ | Delete folder| 
 |rm -rf* | Delete all files and folder |
 |mv _source_ _destination_ | Move files|
-|cp _source_ _destination_ | |
+|cp _source_ _destination_ | Copy file |
+|tail -100f _filename_ | prints live update of last 100 lines |
+
 
 
 # **LINUX FILE SYSTEM**
+## **File System**
 
 | DIRECTORY | Description |
 |-------|-------------|
