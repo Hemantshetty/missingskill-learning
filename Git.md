@@ -6,7 +6,7 @@
 >         **sudo apt install git**
 ### GIT COMMANDS
 
-| command |  Description|
+| **COMMAND** |  **DESCRIPTION**|
 |----------|-----------|
 |git config --global user.email <"email_address">| configure user email --global(to all repositary) if not given then setting will be for current repository| 
 |git config --global user.name <"user_name">|configure user name.|
