@@ -6,6 +6,10 @@
 >         **sudo apt install git**
 ### GIT COMMANDS
 
+![gitcommand01](https://user-images.githubusercontent.com/81672261/127742216-2b1ba765-e2c9-40ed-882b-476ada1da70b.PNG)
+![gitcommand02](https://user-images.githubusercontent.com/81672261/127742220-dfc4b166-1fde-4d28-9e7e-f6606d8781cd.PNG)
+
+
 | **COMMAND** |  **DESCRIPTION**|
 |----------|-----------|
 |git config --global user.email <"email_address">| configure user email --global(to all repositary) if not given then setting will be for current repository| 
