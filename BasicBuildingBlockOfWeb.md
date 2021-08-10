@@ -57,7 +57,7 @@
 | POST          | It is used to send a data to the server. eg.Uploading a file.                                                       |
 | GET           | It is used to retrive the information from the server using given URL.                                                  |
 | PUT           |  It is used to request the server to store the included body at a location specified by the given URL.                   |
-| HEAD          | This method is same as that of a GET request, but without the response body and it transfers the header section only.                                                       |
+| HEAD          | This method is same as that of a GET request, but without the response body and it transfers the header section only.  |
 | DELETE        | It will delete the specified resources.   |
 | CONNECT       | It will establish the tunnel to the server identify by the resource.                                                   |
 | OPTIONS       | It will describe communication options for the target resouce.                                                    |
